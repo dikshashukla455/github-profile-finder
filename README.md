@@ -13,7 +13,7 @@ This component contains the data of each repositories in form of card containing
 
 # Loader:
 This component contains the skeleton loader of profile and repositories.
-in profile,the skeleton will display while calling the api it depends upon the internet speed at sometimes it can't be visible due to fast connection . so, In repository, I have add skeleton loader for 0.5s by using settimeout method.
+in profile,the skeleton will display while calling the api it depends upon the internet speed at sometimes it can't be visible due to fast connection . so, In repository, I have add skeleton loader for 0.5s by using settimeout method. So, you can see that how loader will look like.
 
 # Unit tests:
 
