@@ -5,6 +5,10 @@ This project contains four components : Profile, Repositories, Pagination, Loade
 
 Tech Stack : Reactjs, MaterialUI, Github API.
 
+Hosted Link : https://elated-morse-efdff3.netlify.app/
+
+In App component, it contains a form having input to enter a github username by pressing enter key or clicking the button . it calls the Api which display the profile and repositories data of that particular user.
+
 # Profile:
 This component contains the data of the user's profile (like : name, email, followers, image, bio)
 
