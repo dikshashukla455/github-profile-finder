@@ -9,7 +9,7 @@ Tech Stack : Reactjs, MaterialUI, Github API.
 This component contains the data of the user's profile (like : name, email, followers, image, bio)
 
 # Repositories:
-This component contains the data of each repositories in form of card containing name, description, languages and topics.
+This component contains the data of each repositories of that particular user in the form of card containing name, description, languages and topics.
 
 # Loader:
 This component contains the skeleton loader of profile and repositories.
